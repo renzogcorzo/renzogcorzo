@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @renzogcorzo
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently learning Java, AWS, Angular, React, Kubernetes
